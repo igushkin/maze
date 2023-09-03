@@ -1,8 +1,14 @@
 # Maze Generator & Solver
 
-**This project provides Java implementations of Deep First Search algorithm for generating so called "perfect mazes".**  
+**This project provides Java implementations of Deep First Search algorithm for generating so called "perfect mazes".** <br>
 
 <img width=250px src='https://github.com/igushkin/maze/blob/master/examples/example.png'>
+
+## Live Demo
+
+```
+https://igushkin.github.io/maze-client/
+```
 
 ## Explanation
 
