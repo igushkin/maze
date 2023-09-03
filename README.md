@@ -6,9 +6,8 @@
 
 ## Live Demo
 
-```
-https://igushkin.github.io/maze-client/
-```
+[https://igushkin.github.io/maze-client/](https://igushkin.github.io/maze-client/)
+
 
 ## Explanation
 
