@@ -2,7 +2,7 @@
 
 **This project provides Java implementations of Deep First Search algorithm for generating so called "perfect mazes".** <br>
 
-<img width=250px src='https://github.com/igushkin/maze/blob/master/examples/example.gif'>
+<img width=300px src='https://github.com/igushkin/maze/blob/master/examples/example.gif?raw=true'>
 
 ## Live Demo
 
